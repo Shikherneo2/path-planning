@@ -4,11 +4,12 @@ Two algorithms are implemented - Randomly Exploring Random Forest (RRT) and Vert
 
 There are two implementations of RRT  - Both use a goal bias of 0.05 and step size of 5.
 
-RRT Result <br>
-<img source="rrt_naiive.png"><br><br>
+RRT Result
 
-Vertical Cell Decomposition Result<br>
-<img source="vcd.png">
+![RRT](https://raw.githubusercontent.com/shikherneo2/path-planning/master/rrt_naiive.png)
+
+Vertical Cell Decomposition Result
+![Vertical Cell Decomposition](https://raw.githubusercontent.com/shikherneo2/path-planning/master/vcd.png)
 
 
 ########### Files ####################################
