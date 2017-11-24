@@ -1,0 +1,13 @@
+Two helper files - intersect.py and graph.py are custom built and provide functions to be used by the algorithms.
+
+Matplotlib is used to draw the figures. No external library has been used for the algorithm itself.
+
+There are two implementations of Randomly Exploring Random
+Forest Algorithm-
+Both use a goal bias of 0.05 and step size of 5.
+
+rrt.py tries to reach the goal after every new vertex is added, and therefore reaches the goal quicker.
+
+rrt_naiive.py keeps expanding the tree till the goal is actually expanded. 
+
+The output format is as specified in the assignment problem statement
